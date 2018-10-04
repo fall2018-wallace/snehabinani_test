@@ -17,7 +17,7 @@
         {
             "ports": [
                 {
-                    "output": "clean_data",
+                    "output": "cleanCensus",
                     "type": "csv"
                 }
             ],
@@ -30,12 +30,14 @@
             "name": "scprc_est_2017_18_pop_res.csv"
         },
         {
-            "name": "clean.R"
+            "assigned_to": "srbinani",
+            "name": "clean.R",
+            "task_status": "in progress"
         },
         {
             "name": "data.csv"
         }
     ],
-    "updated_at": "2018-10-04 17:31:39",
+    "updated_at": "2018-10-04 17:35:14",
     "url": "https://github.com/fall2018-wallace/snehabinani_test"
 }
