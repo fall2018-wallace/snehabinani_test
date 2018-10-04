@@ -1,6 +1,5 @@
 
 
-clean_data <- raw_data
 #re-use the code from before
 readStates<-function(states)
 {
